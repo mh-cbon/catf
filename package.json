@@ -1,6 +1,6 @@
 {
   "name": "@mh-cbon/catf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "just cat",
   "main": "index.js",
   "bin": {
