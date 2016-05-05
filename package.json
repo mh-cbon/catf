@@ -1,6 +1,6 @@
 {
   "name": "@mh-bon/catf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just cat",
   "main": "index.js",
   "bin": {
@@ -17,7 +17,8 @@
     "public": "npm publish --access=public"
   },
   "keywords": [
-    "cat", "file"
+    "cat",
+    "file"
   ],
   "author": "mh-cbon <mh-cbon@users.noreply.github.com>",
   "license": "MIT"
